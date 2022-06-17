@@ -6,9 +6,9 @@
   <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 </head>
 <body>
-  <h1>
-    Hello world!
-  </h1>
+  <div class="flex justify-center align-center bg-blue-500 h-screen">
+    tessss
+  </div>
   <script src="{{ asset('js/app.js') }}"></script>
 </body>
 </html>
